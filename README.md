@@ -1,6 +1,6 @@
 # React + Vite template
 ```
-npx tiged AlanDeleon88/my-react-vite-template#main my-react-vite-template
+npx tiged AlanDeleon88/my-react-vite-template#main
 ```
 
 ## How to start
