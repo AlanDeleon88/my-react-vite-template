@@ -5,7 +5,6 @@ npx tiged AlanDeleon88/my-react-vite-template#main
 
 ## How to start
 ```
-cd my-react-vite-template
 npm install
 npm run dev
 ```
